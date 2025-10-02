@@ -1,0 +1,21 @@
+Pipeline Summary
+================
+DNA: NM_001143.2 length 926
+Protein: 4ETQ_1|Chains length 221
+Translated used: translated_192_771_fwd length 193
+ORFs found: 45
+Alignment identity: 100.00%
+
+Top codons:
+CAG: 22
+CCT: 17
+CCC: 16
+CCA: 15
+CTG: 14
+CAC: 13
+CAA: 11
+ATG: 11
+AAG: 10
+GTG: 9
+ACC: 9
+TTT: 7
