@@ -1,0 +1,85 @@
+LOCUS       NM_001143.2              926 bp    DNA              UNK 01-JAN-1980
+DEFINITION  NM_001143.2 Homo sapiens amelogenin Y-linked (AMELY), transcript
+            variant 1, mRNA.
+ACCESSION   NM_001143
+VERSION     NM_001143.2
+KEYWORDS    .
+SOURCE      NM_001143.2 Homo sapiens amelogenin Y-linked (AMELY), transcript
+            variant 1, mRNA
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             193..771
+                     /note="predicted_orf_1"
+                     /translation="MGTWILFACLVGAAFAMPLPPHPGHPGYINFSYEVLTPLKWYQSM
+                     IRPPYSSYGYEPMGGWLHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPV
+                     PGQQSMTPTQHHQPNLPLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMF
+                     PLRPLPPILPDLHLEAWPATDKTKQEEVD"
+     CDS             193..771
+                     /note="predicted_orf_2"
+                     /translation="MGTWILFACLVGAAFAMPLPPHPGHPGYINFSYEVLTPLKWYQSM
+                     IRPPYSSYGYEPMGGWLHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPV
+                     PGQQSMTPTQHHQPNLPLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMF
+                     PLRPLPPILPDLHLEAWPATDKTKQEEVD"
+     CDS             193..771
+                     /note="predicted_orf_3"
+                     /translation="MGTWILFACLVGAAFAMPLPPHPGHPGYINFSYEVLTPLKWYQSM
+                     IRPPYSSYGYEPMGGWLHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPV
+                     PGQQSMTPTQHHQPNLPLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMF
+                     PLRPLPPILPDLHLEAWPATDKTKQEEVD"
+     CDS             241..771
+                     /note="predicted_orf_4"
+                     /translation="MPLPPHPGHPGYINFSYEVLTPLKWYQSMIRPPYSSYGYEPMGGW
+                     LHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPVPGQQSMTPTQHHQPNL
+                     PLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMFPLRPLPPILPDLHLEA
+                     WPATDKTKQEEVD"
+     CDS             241..771
+                     /note="predicted_orf_5"
+                     /translation="MPLPPHPGHPGYINFSYEVLTPLKWYQSMIRPPYSSYGYEPMGGW
+                     LHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPVPGQQSMTPTQHHQPNL
+                     PLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMFPLRPLPPILPDLHLEA
+                     WPATDKTKQEEVD"
+     CDS             241..771
+                     /note="predicted_orf_6"
+                     /translation="MPLPPHPGHPGYINFSYEVLTPLKWYQSMIRPPYSSYGYEPMGGW
+                     LHHQIIPVVSQQHPLTHTLQSHHHIPVVPAQQPRVRQQALMPVPGQQSMTPTQHHQPNL
+                     PLPAQQPFQPQPVQPQPHQPMQPQPPVQPMQPLLPQPPLPPMFPLRPLPPILPDLHLEA
+                     WPATDKTKQEEVD"
+     CDS             247..720
+                     /note="predicted_orf_7"
+                     /translation="MQIRKYGGQGPQGEHWRQRWLWQQGLHGLHRWLGLHGLVRLWLNR
+                     LGLEGLLGRQREVWLMVLGWSHGLLARNRHQCLLADPGLLSWHHWDVVMRLQGVSQGVL
+                     LGHHGDDLVVQPSTHGLVTIGRVWWSYHALVPLQRGEHLIAEVDITRVPRMRW"
+     CDS             247..720
+                     /note="predicted_orf_8"
+                     /translation="MQIRKYGGQGPQGEHWRQRWLWQQGLHGLHRWLGLHGLVRLWLNR
+                     LGLEGLLGRQREVWLMVLGWSHGLLARNRHQCLLADPGLLSWHHWDVVMRLQGVSQGVL
+                     LGHHGDDLVVQPSTHGLVTIGRVWWSYHALVPLQRGEHLIAEVDITRVPRMRW"
+     CDS             247..720
+                     /note="predicted_orf_9"
+                     /translation="MQIRKYGGQGPQGEHWRQRWLWQQGLHGLHRWLGLHGLVRLWLNR
+                     LGLEGLLGRQREVWLMVLGWSHGLLARNRHQCLLADPGLLSWHHWDVVMRLQGVSQGVL
+                     LGHHGDDLVVQPSTHGLVTIGRVWWSYHALVPLQRGEHLIAEVDITRVPRMRW"
+     CDS             325..771
+                     /note="predicted_orf_10"
+                     /translation="MIRPPYSSYGYEPMGGWLHHQIIPVVSQQHPLTHTLQSHHHIPVV
+                     PAQQPRVRQQALMPVPGQQSMTPTQHHQPNLPLPAQQPFQPQPVQPQPHQPMQPQPPVQ
+                     PMQPLLPQPPLPPMFPLRPLPPILPDLHLEAWPATDKTKQEEVD"
+ORIGIN
+        1 gtgagagaag gtaccactgg gaagcaaggc cggacccagg atctgccaga ccccgacccg
+       61 ccagaaccta ggatcaacag ataccttgaa ggatataaat tgagctcata gttaaagaaa
+      121 atctagagga ccaagcctcc ctgtgtagca caaagaaagt ttctctgaat atatttaaag
+      181 aaccatcaag aaatggggac ctggattttg tttgcctgcc ttgtgggagc agcttttgcc
+      241 atgcctctac cacctcatcc tgggcaccct ggttatatca acttcagcta tgaggtgctc
+      301 acccctttga agtggtacca gagcatgata agaccaccat actcttccta tggttacgag
+      361 cccatgggtg gatggctgca ccaccaaatc atccccgtgg tgtcccaaca gcaccccctg
+      421 actcacaccc tgcagtctca tcaccacatc ccagtggtgc cagctcagca gcccagggtc
+      481 cgccagcaag cactgatgcc tgttcctggc cagcaatcca tgactccaac ccaacaccat
+      541 cagccaaacc tccctctgcc tgcccagcag cccttccagc cccagcctgt tcagccacag
+      601 cctcaccagc ccatgcagcc ccagccacct gtgcaaccca tgcagcccct gctgccacag
+      661 ccacctctgc ctccaatgtt ccccctgcgg cccctgcccc ccatacttcc tgatctgcat
+      721 ctggaagctt ggccagcaac agacaagacc aagcaggagg aagtggatta aaagaccaga
+      781 atatgagaca ggaactgaag taaacacttt agttgctttc agggatgaca caagcacaca
+      841 atgatttttg cttacaatca cttaacttag caaattctgt aactaaaaat gtaccaatag
+      901 tagacaataa aatgttttaa aaatca
+//
